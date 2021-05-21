@@ -1,0 +1,152 @@
+{
+  "basics": {
+    "name": "Aleck Kitenge",
+    "label": "Aspiring Full Stack Web Developer",
+    "picture": "https://avatars.githubusercontent.com/u/53080877?v=4",
+    "email": "aleck.kit@gmail.com",
+    "phone": "+26773094800",
+    "website": "https://aleck-kitenge-resume-website.netlify.app/",
+    "summary": "Aspiring full Stack Web Developer skilled at designing, developing and maintaining web as well as mobile applications. Adept at understanding the requirements of clients and delivering projects accordingly. Looking forward to applying the acquired gamut of skills in a challenging role.",
+    "location": {
+      "address": "Sutherland",
+      "postalCode": "2232",
+      "city": "Gaborone",
+      "countryCode": "BW",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "jonbloomer",
+        "url": ""
+      },
+      {
+        "network": "Github",
+        "username": "freaksauce",
+        "url": ""
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Freelance",
+      "position": "Marketing Communications Developer",
+      "website": "http://iag.com.au",
+      "startDate": "12/2016",
+      "endDate": "",
+      "summary": "Working collaboratively with creative teams, multimedia divisions and corporate communications departments to conceptualise and orchestrate marketing campaigns that effectively build brands",
+      "highlights": []
+    },
+    {
+      "company": "TBWA/Medcom",
+      "position": "Strategic Planner/Senior Copywriter",
+      "website": "",
+      "startDate": "03/2012",
+      "endDate": "12/2016",
+      "summary": "Responsible for the development and presentation of ad campaign and communications strategies  for a wide range of clients",
+      "highlights": []
+    },
+    {
+      "company": "TBWA/Medcom",
+      "position": "Senior Copywriter",
+      "website": "",
+      "startDate": "09/2008",
+      "endDate": "12/2016",
+      "summary": "Responsibilities included writing original copy for advertising and communications campaigns, editing and publishing articles, and maintaining brand consistency across all above- and below-the-line channels.",
+      "highlights": []
+    },
+    {
+      "company": "MultiChoice DStv(Digital Satellite Television)",
+      "position": "Customer Services Representative",
+      "website": "",
+      "startDate": "01/2000",
+      "endDate": "01/20002",
+      "summary": "Managing customer accounts, databases and queries",
+      "highlights": []
+    }
+    
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "HyperionDev",
+      "area": "",
+      "studyType": "Fullstack Web Development",
+      "startDate": "11/2020",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "UDEMY",
+      "area": "",
+      "studyType": "Complete Web Developer: Zero to Mastery",
+      "startDate": "6/2020",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "FreeCodeCamp",
+      "area": "",
+      "studyType": "Responsive Web Design & JavaScript Algorithms  and Data Structures",
+      "startDate": "01/2020",
+      "endDate": "",
+      "gpa": "",
+      "courses": []
+    },
+    {
+      "institution": "Nelson Mandela University",
+      "area": "",
+      "studyType": "BA Media & Communications ",
+      "startDate": "02/2002",
+      "endDate": "11/2006",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Front End Development",
+      "level": "Master",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "ES2015",
+        "ES2016",
+        "ES2017",
+        "ES2018",
+        "ES2019",
+        "ES6",
+        "React",
+        "jQuery",
+        "Github",
+        "Webpack",
+        "Babel",
+        "Heroku",
+        "Bootstrap",
+        "Node",
+        "Express",
+        "MongoDB",
+        "Git",
+        "Responsive"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Guitar",
+      "keywords": []
+    }
+  ],
+  "references": []
+}
